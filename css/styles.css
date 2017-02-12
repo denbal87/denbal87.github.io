@@ -1,0 +1,110 @@
+body {
+  background-color: #01020E;
+  font-family: Verdana,Geneva,sans-serif
+}
+
+/* delete this later */
+.temp {
+  padding-top: 100px;
+}
+/*-------------------*/
+
+div {
+  color: #ffffff;
+}
+
+.description {
+  max-width: 350px;
+  text-align: left;
+  padding-top: 20px;
+}
+
+audio {
+  background-color: black;
+  padding-top: 30px;
+  width: 310px;
+}
+
+.title {
+  color: #ffffff;
+  font-size: large;
+  padding-top: 50px;
+}
+#home-navbar {
+  margin: 50px;
+  background: transparent;
+  border: none;
+  font-size: large;
+}
+
+@media (min-width: 768px) {
+  .navbar .navbar-nav {
+    display: inline-block;
+    float: none;
+    vertical-align: top;
+  }
+  .navbar .navbar-collapse {
+    text-align: center;
+  }
+}
+
+#links {
+  display: inline;
+}
+
+
+.content-coming {
+  padding-top: 50px;
+  font-size: medium;
+  color: #ffffff;
+  text-align: center;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: #ffffff;
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus,
+a:hover, a:focus {
+  color: #3BDAC7;
+}
+
+#weekly-quote:hover {
+
+}
+
+a {
+  color: #ffffff;
+}
+
+.page-links {
+  padding-top: 50px;
+  font-size: medium;
+}
+
+.page-links > div {
+  min-height: 50px;
+}
+
+.page-links:hover {
+  color: #3BDAC7;
+}
+
+#index-nav-ul {
+  margin: 0 auto;
+}
+
+#quote {
+  padding-top: 50px;
+  font-size: medium;
+  color: #ffffff;
+}
+
+.row {
+  text-align: center;
+  color: #ffffff;
+}
+
+.page-content {
+  margin-top: 50px;
+}
