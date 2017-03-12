@@ -13,6 +13,15 @@ div {
   color: #ffffff;
 }
 
+.pager li>a, .pager li>span {
+  background-color: #01020E;
+}
+
+.pager li>a:hover, .pager li>a:focus {
+  background-color: #01020E;
+  
+}
+
 .description {
   max-width: 350px;
   text-align: left;
